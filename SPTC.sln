@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPTC-Query", "SPTC-Query\SPTC-Query.csproj", "{3225F181-3264-47E6-A47C-F87686BF173A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3225F181-3264-47E6-A47C-F87686BF173A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3225F181-3264-47E6-A47C-F87686BF173A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3225F181-3264-47E6-A47C-F87686BF173A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3225F181-3264-47E6-A47C-F87686BF173A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
