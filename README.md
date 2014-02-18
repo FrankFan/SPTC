@@ -3,7 +3,8 @@ SPTC
 
 SPTC——Shanghai Public Transportation Card. This application is used to query the balance of the card. Written in CSharp.
 
-### TODO List:
+### TO DO List:
 1. 由于时间紧急验证功能未作
 2. 注释添加
-3. 排版等。
+3. 排版等
+4. 多线程处理，防止界面假死
