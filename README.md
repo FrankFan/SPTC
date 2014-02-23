@@ -8,3 +8,4 @@ SPTC——Shanghai Public Transportation Card. This application is used to query
 2. 注释添加
 3. 排版等
 4. 多线程处理，防止界面假死
+5. 提示信息处理
