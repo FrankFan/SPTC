@@ -1,4 +1,7 @@
-﻿using System;
+/*
+* Http处理请求类
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
